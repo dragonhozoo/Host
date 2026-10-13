@@ -1,0 +1,47 @@
+{
+  "device_info": {
+    "brand": "Vivo",
+    "model": "V15",
+    "codename": "PD1813",
+    "android_version": "9.0 (Pie)",
+    "funtouch_version": "9.0",
+    "build_fingerprint": "vivo/PD1813/PD1813:9/PPR1.180610.011/compiler09101234:user/release-keys",
+    "imei_spoof": false,
+    "serial_masked": "V15XXXXXXXXXXXX"
+  },
+  "premium_config": {
+    "is_premium": true,
+    "premium_type": "lifetime",
+    "activation_date": "2026-01-02T00:00:00Z",
+    "expiry_date": "2099-12-31T23:59:59Z",
+    "license_key": "HOZOO-MD-V15-PREMIUM-2026",
+    "signature": "a1b2c3d4e5f6789012345678abcdef01",
+    "checksum_algorithm": "SHA-256",
+    "server_endpoint": "https://api.premium.local/v1/verify"
+  },
+  "feature_flags": {
+    "ads_removed": true,
+    "unlimited_access": true,
+    "hd_quality": true,
+    "no_watermark": true,
+    "background_play": true,
+    "all_themes_unlocked": true,
+    "export_4k": true,
+    "priority_server": true,
+    "offline_mode": true,
+    "root_access": true
+  },
+  "user_profile": {
+    "user_id": "UID-998877665544",
+    "username": "Maharaj",
+    "email": "premium@hozoo.local",
+    "role": "owner",
+    "created_at": "2026-01-02T00:00:00Z"
+  },
+  "security": {
+    "anti_tamper": true,
+    "integrity_hash": "e3b0c44298fc1c149afbf4c8996fb924",
+    "root_detection_bypass": true,
+    "signature_verification": true
+  }
+}
